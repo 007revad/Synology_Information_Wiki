@@ -5,6 +5,7 @@ Information about Synology hardware
 
 Information of what various Synology models support
 
+### General Hardware Information
 * [CPU information](https://github.com/007revad/Synology_enable_M2_volume/wiki/CPU-information)
 * [DSM versions per model](https://github.com/007revad/Synology_enable_M2_volume/wiki/DSM-versions-per-model)
 * [eSATA Expansion Unit Support](https://github.com/007revad/Synology_enable_M2_volume/wiki/eSATA-Expansion-Unit-Support)
