@@ -1,9 +1,5 @@
 # Synology_Information_Wiki
-Information about Synology hardware
-
-## Synology information wiki
-
-Information of what various Synology models support
+Hardware information of what various Synology models support
 
 ### General Hardware Information
 * [CPU information](pages/CPU-information.md)
