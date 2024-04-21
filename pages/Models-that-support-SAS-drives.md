@@ -1,0 +1,22 @@
+Models that support SAS drives
+
+From DSM 7.2.1 synoinfo.conf
+```
+FS2017
+FS3017
+FS3400
+FS3600
+FS6400
+
+HD6500
+
+RS18016xs+
+RS18017xs+
+
+SA3200D
+SA3400
+SA3400D
+SA3410
+SA3600
+SA3610
+```
