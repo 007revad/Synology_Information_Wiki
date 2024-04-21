@@ -1,4 +1,4 @@
-# Synology_Information_Wiki
+# Synology Information Wiki
 Hardware information of what various Synology models support
 
 ### General Hardware Information
