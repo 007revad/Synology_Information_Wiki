@@ -1,12 +1,22 @@
 ### First and latest DSM version per model
 
+<details>
+  <summary>Click here to see CS models</summary>
+
 | Model | First DSM version | Latest DSM version | Note |
 |-------|-----------|-----------|------|
 | CS-406 | 2.0-0731 | 2.0-0731 | EOL |
 | CS-406e | 2.0-0731 | 2.0-0731 | EOL |
 | CS407 | 3.1-1594 | 3.1-1639 | EOL |
 | CS407e | 3.1-1594 | 3.1-1639 | EOL |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see DS models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | DS-101j | 2.0-0731 | 2.0-0731 | EOL |
 | DS-106 | 2.0-0731 | 2.0-0731 | EOL |
 | DS-106e | 2.0-0731 | 2.0-0731 | EOL |
@@ -129,6 +139,7 @@
 | DS1517 | 6.1.1-15101 | 7.2.1-69057 |  |
 | DS1517+ | 6.1.1-15095 | 7.2.1-69057 |  |
 | DS1520+ | 6.2.3-25426 | 7.2.1-69057 |  |
+| DS1522+ | 7.1-42661 | 7.2.1-69057 |  |
 | DS1618+ | 6.1.6-15266 | 7.2.1-69057 |  |
 | DS1621+ | 6.2.3-25426 | 7.2.1-69057 |  |
 | DS1621xs+ | 6.2.3-25426 | 7.2.1-69057 |  |
@@ -154,13 +165,34 @@
 | DS3617xs | 6.0.2-8451 | 7.2.1-69057 |  |
 | DS3617xsII | 6.2.4-25556 | 7.2.1-69057 |  |
 | DS3622xs+ | 7.0.1-42218 | 7.2.1-69057 |  |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see DVA models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | DVA1622 | 7.1-42661 | 7.2.1-69057 |  |
 | DVA3219 | 6.2.2-24922 | 7.2.1-69057 |  |
 | DVA3221 | 6.2.3-25426 | 7.2.1-69057 |  |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see EDS models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | EDS14 | 4.3-4244 | 6.0.3-8754 | EOL |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see FS models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | FS1018 | 6.1.4-15217 | 7.2.1-69057 |  |
 | FS2017 | 6.1.1-15101 | 7.2.1-69057 |  |
 | FS2500 | 7.0.1-42218 | 7.2.1-69057 |  |
@@ -169,14 +201,42 @@
 | FS3410 | 7.1-42661 | 7.2.1-69057 |  |
 | FS3600 | 6.2.3-25426 | 7.2.1-69057 |  |
 | FS6400 | 6.2.2-24922 | 7.2.1-69057 |  |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see HD models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | HD6500 | 7.1-42661 | 7.2.1-69057 |  |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see NVR models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | NVR216 | 5.2-5644 | 6.2.4-25556 | EOL |
 | NVR1218 | 6.1.3-15152 | 6.2.4-25556 | EOL |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see RC models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | RC18015xs+ | 5.1-5358 | 7.1.1-42962 | EOL |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see RS models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | RS212 | 3.2-1947 | 6.2.4-25556 | EOL |
 | RS214 | 4.2-3235 | 7.1.1-42962 | EOL |
 | RS217 | 6.0.2-8451 | 7.2.1-69057 |  |
@@ -245,7 +305,14 @@
 | RS10613xs+ | 4.1-2846 | 7.1.1-42962 | EOL |
 | RS18016xs+ | 5.2-5592 | 7.2.1-69057 |  |
 | RS18017xs+ | 6.0.2-8451 | 7.2.1-69057 |  |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see SA models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | SA3200D | 6.2.2-25044 | 7.2.1-69057 |  |
 | SA3400 | 6.2.2-24922 | 7.2.1-69057 |  |
 | SA3400D | 7.1.1-42962 | 7.2.1-69057 |  |
@@ -253,11 +320,26 @@
 | SA3600 | 6.2.2-24922 | 7.2.1-69057 |  |
 | SA3610 | 7.1.1-42962 | 7.2.1-69057 |  |
 | SA6400 | 7.1.1-42962 | 7.2.1-69057 |  |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see USB Station models</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | USB_Station_2 | 3.1-1742 | 3.2-1983 | EOL |
-| | |
+
+</details>
+
+<details>
+  <summary>Click here to see Virtual DSM versions</summary>
+
+| Model | First DSM version | Latest DSM version | Note |
+|-------|-----------|-----------|------|
 | C2DSM | 6.1.2-15132 | 6.1.6-15266 | EOL |
 | DockerDSM | 6.0-7321 | 6.2.3-25426 | EOL |
 | SkyNAS | 6.1.5-15254 | 6.2.3-25426 | EOL |
 | VirtualDSM | 6.0-7321 | 7.2.1-69057 |  |
-|
+
+</details>
