@@ -14,6 +14,7 @@ Hardware information of what various Synology models support
 * [Linux Kernel in each platform arch](pages/Linux-Kernel-in-each-platform-arch.md)
 * [PCIe network cards](pages/PCIe-network-cards.md)
 * [RAID min and max drives](pages/RAID-min-and-max-drives.md)
+* [S.M.A.R.T.](pages/SMART.md)
 * [SSD Sequential I/O Cache](pages/SSD-Sequential-I-O-Cache.md)
 * [SSD TRIM support](pages/SSD-TRIM-support.md)
 * [StorageManager package support](pages/StorageManager-package-support.md)
