@@ -21,6 +21,12 @@ SA3400
 SA3200D
 ```
 
+UC models **only** support SAS drives, and use DSMUC instead of DSM
+```
+UC3400
+UC3200
+```
+
 ## Expansion Units that suport SAS drives
 
 From https://www.synology.com/en-global/products/accessories/NAS?category=expansion_units
