@@ -1,7 +1,5 @@
 ## Models that support SAS drives
 
-From DSM 7.2.1 synoinfo.conf
-
 UC Models | Supports |
 -- | -- |
 FS6400  | SAS/SATA |
