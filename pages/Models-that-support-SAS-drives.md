@@ -13,8 +13,8 @@ FS2017  | SAS/SATA |
 |  |  |
 HD6500  | SAS/SATA |
 |  |  |
-RS18017xs+ |  |
-RS18016xs+ |  |
+RS18017xs+ | SAS/SATA |
+RS18016xs+ | SAS/SATA |
 |  |  |
 SA3610   |  |
 SA3600   |  |
