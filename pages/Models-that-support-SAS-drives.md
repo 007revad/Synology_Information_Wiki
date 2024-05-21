@@ -3,9 +3,9 @@
 UC Models | Supports |
 -- | -- |
 FS6400  | SAS/SATA |
-FS3600  | SATA |
-FS3410  | SATA |
-FS3400  | SATA |
+FS3600  | **SATA** |
+FS3410  | **SATA** |
+FS3400  | **SATA** |
 FS3017  | SAS/SATA |
 FS2017  | SAS/SATA |
 |  |  |
@@ -14,7 +14,7 @@ HD6500  | SAS/SATA |
 RS18017xs+ | SAS/SATA |
 RS18016xs+ | SAS/SATA |
 |  |  |
-SA6400   | SATA |
+SA6400   | **SATA** |
 SA3610   | SAS/SATA |
 SA3600   | SAS/SATA |
 SA3410   | SAS/SATA |
