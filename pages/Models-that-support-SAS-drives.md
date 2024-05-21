@@ -5,22 +5,22 @@ From DSM 7.2.1 synoinfo.conf
 UC Models | Supports |
 -- | -- |
 FS6400  | SAS/SATA |
-FS3600  | SAS/SATA |
-FS3400  | SAS/SATA |
-FS3017  | SAS/SATA |
-FS2017  | SAS/SATA |
+FS3600  | SATA |
+FS3400  | SATA |
+FS3017  |  |
+FS2017  |  |
 |  |  |
 HD6500  | SAS/SATA |
 |  |  |
-RS18017xs+  | SAS/SATA |
-RS18016xs+  | SAS/SATA |
+RS18017xs+ |  |
+RS18016xs+ |  |
 |  |  |
-SA3610  | SAS/SATA |
-SA3600  | SAS/SATA |
-SA3410  | SAS/SATA |
-SA3400D  | SAS/SATA |
-SA3400  | SAS/SATA |
-SA3200D  | SAS/SATA |
+SA3610   |  |
+SA3600   |  |
+SA3410   |  |
+SA3400D  |  |
+SA3400   |  |
+SA3200D  |  |
 
 UC models **only** support SAS drives, and use DSMUC instead of DSM
 
