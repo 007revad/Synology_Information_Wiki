@@ -1,5 +1,5 @@
 Models with a PCIe slot and a CPU with an iGPU
-
+```
 DS1517+
 DS1618+
 DS1817+
@@ -15,3 +15,4 @@ RS1219+
 RS2418+
 RS2418RP+
 RS2818RP+
+```
