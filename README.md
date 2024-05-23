@@ -42,4 +42,5 @@ Hardware information of what various Synology models support
 * [Models that use sata1 instead of sda](pages/Models-that-use-sata1-instead-of-sda.md)
 * [Models with internal M.2 slots](pages/Models-with-internal-M.2-slots.md)
 * [Models with PCIe slots](pages/Models-with-PCIe-slots.md)
+* [Models-with-PCIe-slot-and-CPU-with-iGPU](pages/Models-with-PCIe-slot-and-iGPU.md)
 * [Models with PCIe slots & no NVMe support](pages/Models-with-PCIe-slots-&-no-NVMe-support.md)
