@@ -1,4 +1,6 @@
-Synology NAS models with internal M.2 slots
+### Synology NAS models with internal M.2 slots
+
+All these models' M.2 slots fit only 2280 M.2 NVMe drives.
 
 ```
 DS1823xs+
