@@ -7,12 +7,13 @@ All Synology products do not support eSATA disk enclosures with port multipliers
 | Model | eSATA Speed | Notes |
 |-------|-------------|-------|
 | DX517 | 6 Gbps | 600 MB/s |
+|	RX418 | 6 Gbps | 600 MB/s |
+| | |
 |	DX513 | 3 Gbps | 300 MB/s |
 | DX213 | 3 Gbps | 300 MB/s |
-|	DX510 | 1.5 Gbps | 150 MB/s | 
-| | |
-|	RX418 | 6 Gbps | 600 MB/s |
 |	RX415 | 3 Gbps | 300 MB/s |
+| | |
+|	DX510 | 1.5 Gbps | 150 MB/s | 
 |	RX410 | 1.5 Gbps | 150 MB/s |
 
 <br>
