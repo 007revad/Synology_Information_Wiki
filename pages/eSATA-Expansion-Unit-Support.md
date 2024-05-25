@@ -4,6 +4,17 @@ All Synology products do not support eSATA disk enclosures with port multipliers
 
 <br>
 
+| Model | eSATA Speed |
+|-------|-------------|
+| DX517 | 600 MB/s |
+|	DX513 | 300 MB/s |
+| DX213 | 300 MB/s |
+|	DX510 | 150 MB/s | 
+| | |
+|	RX418 | 600 MB/s |
+|	RX415 | 300 MB/s |
+|	RX410 | 150 MB/s |
+
 [Which Synology DiskStation RackStation can I use with Synology Expansion Units](https://kb.synology.com/en-global/DSM/tutorial/Which_Synology_DiskStation_RackStation_can_I_use_with_Synology_Expansion_Units)
 
 ### eSATA Expansion Unit Support
