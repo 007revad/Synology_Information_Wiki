@@ -20,9 +20,11 @@
 
 <br>
 
-### Synology HDD compatibility policy explained
+### Synology HDD compatibility policy
 
-https://www.blackvoid.club/synology-hdd-compatibility-policy-explained/
+[SpaceRex video on DSM 7.1](https://www.youtube.com/watch?v=NoC3BA3kMo0)
+
+https://www.blackvoid.club/synology-hdd-compatibility-policy-explained/ (old info from DSM 7.0)
 
 <br>
 
