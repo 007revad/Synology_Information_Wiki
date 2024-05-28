@@ -9,6 +9,7 @@
 | | | | | |
 | Enterprise   | SAS 3.5" HDD   | HAS5300     | Toshiba      | MG08?         |
 | | | | | |
+| Enterprise   | SATA 2.5" SSD  | SAT5220     | ??? | ??? |
 | Enterprise   | SATA 2.5" SSD  | SAT5210     | ??? | ??? |
 | Enterprise   | SATA 2.5" SSD  | SAT5200     | ??? | ??? | Discontinued? |
 | | | | | |
