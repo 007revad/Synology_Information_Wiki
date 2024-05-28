@@ -32,6 +32,7 @@ Synology NAS models with internal M.2 slots or that officially support M.2 PCIe 
 
 ### RackStations
 
+* RS18017xs+
 * RS4021xs+
 * RS4017xs+
 * RS3621xs+
@@ -47,7 +48,6 @@ Synology NAS models with internal M.2 slots or that officially support M.2 PCIe 
 * RS2421+
 * RS2418RP+
 * RS2418+
-* RS18017xs+
 * RS1619xs+
 * RS1221RP+
 * RS1221+
