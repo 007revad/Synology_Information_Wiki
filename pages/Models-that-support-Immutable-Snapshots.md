@@ -21,5 +21,6 @@ We can enable them on other models that are using DSM 7.2 by running the followi
 
 ```YAML
 sudo synosetkeyvalue /etc.defaults/synoinfo.conf support_worm yes
+sudo synosetkeyvalue /etc/synoinfo.conf support_worm yes
 ```
 Will that work on all models using DSM 7.2... I don't know. I've had reports that this does NOT work on older models.
