@@ -1,6 +1,6 @@
 ## Models that support SAS drives
 
-UC Models | Supports |
+Models | Supports |
 -- | -- |
 FS6400  | SAS/SATA |
 FS3600  | **SATA** |
