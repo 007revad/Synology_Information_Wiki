@@ -5,13 +5,19 @@ https://kb.synology.com/en-global/DSM/tutorial/What_is_Btrfs_Peta_Volume
 - 200TB volumes require 32GB or more of memory.
 - Btrfs Peta volumes require 64GB ore more of memory.
 
-| NAS requirements       | 108TB volume | 200TB volume | Peta volume |
-| -----------------------|--------------|--------------|-------------|
-| Required memory        |              | 32GB +       | 64GB +      |
-| Required file system   |              | Btrfs        | Btrfs       |
-| Required RAID type     |              | RAID 5 or 6  | RAID 6      |
+| NAS requirements       | 108TB volume | 200TB volume | Peta volume | Comment |
+| -----------------------|--------------|--------------|-------------|---------|
+| Required memory        |              | 32GB +       | 64GB +      | |
+| Required file system   |              | Btrfs        | Btrfs       | |
+| Required RAID type     |              | RAID 5 or 6  | RAID 6      | See Notes |
 
-Models that support 200TB volumes
+**Notes (by 007revad)**
+  1. 200TB volumes work in SHR if the NAS supports SHR (like a DS1821+ with 32GB or more memory).
+  2. Peta volumes may work in SHR2 if the NAS supports SHR.
+
+<br>
+
+**Models that officially support 200TB volumes**
   - RS2423+, RS2423RP+
   - All xs RS and DS models
   - All FS models
