@@ -5,9 +5,9 @@
 | Plus         | SATA 3.5" HDD  | HAT3310     | Toshiba      | N300         |
 | Plus         | SATA 3.5" HDD  | HAT3300     | Seagate      | Ironwolf     | Discontinued? |
 | Enterprise   | SATA 3.5" HDD  | HAT5310     | Seagate? Toshiba? | Ironwolf Pro? MG09? |
-| Enterprise   | SATA 3.5" HDD  | HAT5300     | Toshiba      | MG08?         | Discontinued? |
+| Enterprise   | SATA 3.5" HDD  | HAT5300     | Toshiba      | MG08         | Discontinued? |
 | | | | | |
-| Enterprise   | SAS 3.5" HDD   | HAS5300     | Toshiba      | MG08?         |
+| Enterprise   | SAS 3.5" HDD   | HAS5300     | Toshiba      | MG08         |
 | | | | | |
 | Enterprise   | SATA 2.5" SSD  | SAT5220     | ??? | ??? |
 | Enterprise   | SATA 2.5" SSD  | SAT5210     | ??? | ??? |
