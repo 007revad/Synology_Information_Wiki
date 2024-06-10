@@ -6,4 +6,3 @@ List of spksrc architecture per Synology model
 
 Table of Synology hardware information
 - https://www.synology-wiki.de/index.php/Hardware_der_Synology_Stations
-- 
