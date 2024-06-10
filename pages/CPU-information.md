@@ -3,3 +3,7 @@ What kind of CPU does my Synology NAS have?
 
 List of spksrc architecture per Synology model
 - https://github.com/SynoCommunity/spksrc/wiki/Architecture-per-Synology-model
+
+Table of Synology hardware information
+- https://www.synology-wiki.de/index.php/Hardware_der_Synology_Stations
+- 
