@@ -20,6 +20,7 @@ Hardware information of what various Synology models support
 * [SSD TRIM support](pages/SSD-TRIM-support.md)
 * [StorageManager package support](pages/StorageManager-package-support.md)
 * [Synology HDDs and SSDs](pages/Synology-HDDs-and-SSDs.md)
+* [Number of supported cameras](pages/Max-cameras-per-model.md)
 * [Models that are white](pages/Models_that_are_white.md)
 * [Synology Update sites](pages/Synology-Update-sites.md)
 * [WDDA information](pages/WDDA-information.md)
