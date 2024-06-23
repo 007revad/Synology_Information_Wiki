@@ -17,8 +17,10 @@
 | RS2414RP+ | Intel Atom D2700 |  |  |
 | RS814+ | Intel Atom D2700 |  |  |
 | RS814RP+ | Intel Atom D2700 |  |  |
-| RS1212+ |  |  |  |
-| RS812+ |  |  |  |
+| RS1212+ | Intel Atom D2700 |  |  |
+| RS1212RP+ | Intel Atom D2700 |  |  |
+| RS812+ | Intel Atom D2700 |  |  |
+| RS812RP+ | Intel Atom D2700 |  |  |
 | RS2211+ |  |  |  |
 | RS810+ |  |  |  |
 
