@@ -1,6 +1,6 @@
 ### Models with a GPU
 
-| DS Model | CPU version | iGPU version | GPU version |
+| DS Model | CPU version | iGPU version | Notes |
 |----------|-------------|--------------|------|
 | DS224+ | Intel Celeron J4125 | UHD Graphics 600 |  |
 | DS124 | Realtek RTD1619B | ARM Mali G57 |  |
@@ -40,7 +40,7 @@
 | DS1010+ | Intel Atom D510 | GMA 3150 |  |
 | DS710+ | Intel Atom D410 | GMA 3150 |  |
 
-| RS Model | CPU version | iGPU version | GPU version |
+| RS Model | CPU version | iGPU version | Notes |
 |----------|-------------|--------------|------|
 | RS819 | Realtek RTD1296 | ARM Mali-T820 |  |
 | RS2414+ | Intel Atom D2700 | GMA 3650 |  |
@@ -63,3 +63,17 @@
 | DVA3219 | Intel Atom C3538 |  | NVIDIA GeForce GTX 1050 Ti |
 
 The DVA3219 was announced by Synology as the DS1419dva
+
+<br>
+
+**Resources**
+
+https://kb.synology.com/en-global/DSM/tutorial/What_kind_of_CPU_does_my_NAS_have
+
+https://www.synology-wiki.de/index.php/Hardware_der_Synology_Stations
+
+https://techinfodepot.shoutwiki.com/wiki/Marvell
+
+
+
+
