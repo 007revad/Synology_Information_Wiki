@@ -74,6 +74,6 @@ https://www.synology-wiki.de/index.php/Hardware_der_Synology_Stations
 
 https://techinfodepot.shoutwiki.com/wiki/Marvell
 
+https://ark.intel.com/content/www/us/en/ark.html
 
-
-
+https://en.wikipedia.org/wiki/List_of_Intel_Atom_processors
