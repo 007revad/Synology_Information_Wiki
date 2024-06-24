@@ -43,7 +43,7 @@ Hardware information of what various Synology models support
 * [Models that support UASP](pages/Models-that-support-UASP.md)
 * [Models that use DeviceTree](pages/Models-that-use-DeviceTree.md)
 * [Models that use sata1 instead of sda](pages/Models-that-use-sata1-instead-of-sda.md)
-* [Models_with_a_GPU](pages/Models-with-a-GPU.md)
+* [Models with a GPU](pages/Models-with-a-GPU.md)
 * [Models with internal M.2 slots](pages/Models-with-internal-M.2-slots.md)
 * [Models with PCIe slots](pages/Models-with-PCIe-slots.md)
 * [Models with PCIe slots & no NVMe support](pages/Models-with-PCIe-slots-&-no-NVMe-support.md)
