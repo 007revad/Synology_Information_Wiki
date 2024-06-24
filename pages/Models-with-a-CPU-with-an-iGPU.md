@@ -10,9 +10,9 @@
 | DS620slim | Intel Celeron J3355 | HD Graphics 500 |  |
 | DS420+ | Intel Celeron J4025 | UHD Graphics 600 |  |
 | DS220+ | Intel Celeron J4025 | UHD Graphics 600 |  |
-| DS1019+ | Intel Celeron J3455 |  |  |
-| DS918+ | Intel Celeron J3455 |  |  |
-| DS718+ | Intel Celeron J3455 |  |  |
+| DS1019+ | Intel Celeron J3455 | HD Graphics 500 |  |
+| DS918+ | Intel Celeron J3455 | HD Graphics 500 |  |
+| DS718+ | Intel Celeron J3455 | HD Graphics 500 |  |
 | DS418play | Intel Celeron J3355 | HD Graphics 500 |  |
 | DS218+ | Intel Celeron J3355 | HD Graphics 500 |  |
 | DS2413+ | Intel Atom D2700 | 650MHz |  |
