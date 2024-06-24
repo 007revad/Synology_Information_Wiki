@@ -3,7 +3,11 @@
 | DS Model | CPU version | iGPU version | GPU version |
 |----------|-------------|--------------|------|
 | DS224+ | Intel Celeron J4125 | UHD Graphics 600 |  |
+| DS124 | Realtek RTD1619B | ARM Mali G57 |  |
 | DS423+ | Intel Celeron J4125 | UHD Graphics 600 |  |
+| DS423 | Realtek RTD1619B | ARM Mali G57 |  |
+| DS223j | Realtek RTD1619B | ARM Mali G57 |  |
+| DS223 | Realtek RTD1619B | ARM Mali G57 |  |
 | DS1520+ | Intel Celeron J4125 | UHD Graphics 600 |  |
 | DS920+ | Intel Celeron J4125 | UHD Graphics 600 |  |
 | DS720+ | Intel Celeron J4125 | UHD Graphics 600 |  |
