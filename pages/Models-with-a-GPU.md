@@ -76,4 +76,6 @@ https://techinfodepot.shoutwiki.com/wiki/Marvell
 
 https://ark.intel.com/content/www/us/en/ark.html
 
+https://www.cpu-world.com/CPUs/CPU.html
+
 https://en.wikipedia.org/wiki/List_of_Intel_Atom_processors
