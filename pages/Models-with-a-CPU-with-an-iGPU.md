@@ -2,19 +2,19 @@
 
 | DS Model | CPU version | iGPU version | Note |
 |----------|-------------|--------------|------|
-| DS224+ | Intel Celeron J4125 |  |  |
-| DS423+ | Intel Celeron J4125 |  |  |
-| DS1520+ | Intel Celeron J4125 |  |  |
-| DS920+ | Intel Celeron J4125 |  |  |
-| DS720+ | Intel Celeron J4125 |  |  |
-| DS620slim | Intel Celeron J3355 |  |  |
-| DS420+ | Intel Celeron J4025 |  |  |
-| DS220+ | Intel Celeron J4025 |  |  |
+| DS224+ | Intel Celeron J4125 | UHD Graphics 600 |  |
+| DS423+ | Intel Celeron J4125 | UHD Graphics 600 |  |
+| DS1520+ | Intel Celeron J4125 | UHD Graphics 600 |  |
+| DS920+ | Intel Celeron J4125 | UHD Graphics 600 |  |
+| DS720+ | Intel Celeron J4125 | UHD Graphics 600 |  |
+| DS620slim | Intel Celeron J3355 | HD Graphics 500 |  |
+| DS420+ | Intel Celeron J4025 | UHD Graphics 600 |  |
+| DS220+ | Intel Celeron J4025 | UHD Graphics 600 |  |
 | DS1019+ | Intel Celeron J3455 |  |  |
 | DS918+ | Intel Celeron J3455 |  |  |
 | DS718+ | Intel Celeron J3455 |  |  |
-| DS418play | Intel Celeron J3355 |  |  |
-| DS218+ | Intel Celeron J3355 |  |  |
+| DS418play | Intel Celeron J3355 | HD Graphics 500 |  |
+| DS218+ | Intel Celeron J3355 | HD Graphics 500 |  |
 | DS2413+ | Intel Atom D2700 | 650MHz |  |
 | DS1813+ | Intel Atom D2700 | 650MHz |  |
 | DS1513+ | Intel Atom D2700 | 650MHz |  |
