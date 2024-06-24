@@ -9,7 +9,12 @@
 | DS1812+ | Intel Atom D2700 |  |  |
 | DS1512+ | Intel Atom D2700 |  |  |
 | DS412+ | Intel Atom D2700 |  |  |
-| DS2411+ |  |  |  |
+| DS2411+ | Intel Atom D525 |  |  |
+| DS1511+	Intel Atom D525 |  |  |
+| DS411+II	Intel Atom D525 |  |  |
+| DS411+	Intel Atom D510 |  |  |
+| DS1010+	Intel Atom D510 |  |  |
+| DS710+	Intel Atom D410 |  |  |
 
 | RS Model | CPU version | iGPU version | Note |
 |----------|-------------|--------------|------|
@@ -21,8 +26,10 @@
 | RS1212RP+ | Intel Atom D2700 |  |  |
 | RS812+ | Intel Atom D2700 |  |  |
 | RS812RP+ | Intel Atom D2700 |  |  |
-| RS2211+ |  |  |  |
-| RS810+ |  |  |  |
+| RS2211+ | Intel Atom D525 |  |  |
+| RS2211RP+ | Intel Atom D525 |  |  |
+| RS810+ | Intel Atom D510 |  |  |
+| RS810RP+ | Intel Atom D510 |  |  |
 
 | DVA Model | CPU version | iGPU version | Note |
 |-----------|-------------|--------------|------|
