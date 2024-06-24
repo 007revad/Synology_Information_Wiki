@@ -15,35 +15,35 @@
 | DS718+ | Intel Celeron J3455 | HD Graphics 500 |  |
 | DS418play | Intel Celeron J3355 | HD Graphics 500 |  |
 | DS218+ | Intel Celeron J3355 | HD Graphics 500 |  |
-| DS2413+ | Intel Atom D2700 | 650MHz |  |
-| DS1813+ | Intel Atom D2700 | 650MHz |  |
-| DS1513+ | Intel Atom D2700 | 650MHz |  |
-| DS713+ | Intel Atom D2700 | 650MHz |  |
-| DS1812+ | Intel Atom D2700 | 650MHz |  |
-| DS1512+ | Intel Atom D2700 | 650MHz |  |
-| DS712+ | Intel Atom D425 | 400MHz |  |
-| DS412+ | Intel Atom D2700 | 650MHz |  |
-| DS2411+ | Intel Atom D525 | 400MHz |  |
-| DS1511+ | Intel Atom D525 | 400MHz |  |
-| DS411+II | Intel Atom D525 | 400MHz |  |
-| DS411+ | Intel Atom D510 | 400MHz |  |
-| DS1010+ | Intel Atom D510 | 400MHz |  |
-| DS710+ | Intel Atom D410 | 400MHz |  |
+| DS2413+ | Intel Atom D2700 | GMA 3650 |  |
+| DS1813+ | Intel Atom D2700 | GMA 3650 |  |
+| DS1513+ | Intel Atom D2700 | GMA 3650 |  |
+| DS713+ | Intel Atom D2700 | GMA 3650 |  |
+| DS1812+ | Intel Atom D2700 | GMA 3650 |  |
+| DS1512+ | Intel Atom D2700 | GMA 3650 |  |
+| DS712+ | Intel Atom D425 | GMA 3150 |  |
+| DS412+ | Intel Atom D2700 | GMA 3650 |  |
+| DS2411+ | Intel Atom D525 | GMA 3150 |  |
+| DS1511+ | Intel Atom D525 | GMA 3150 |  |
+| DS411+II | Intel Atom D525 | GMA 3150 |  |
+| DS411+ | Intel Atom D510 | GMA 3150 |  |
+| DS1010+ | Intel Atom D510 | GMA 3150 |  |
+| DS710+ | Intel Atom D410 | GMA 3150 |  |
 
 | RS Model | CPU version | iGPU version | GPU version |
 |----------|-------------|--------------|------|
-| RS2414+ | Intel Atom D2700 | 650MHz |  |
-| RS2414RP+ | Intel Atom D2700 | 650MHz |  |
-| RS814+ | Intel Atom D2700 | 650MHz |  |
-| RS814RP+ | Intel Atom D2700 | 650MHz |  |
-| RS1212+ | Intel Atom D2700 | 650MHz |  |
-| RS1212RP+ | Intel Atom D2700 | 650MHz |  |
-| RS812+ | Intel Atom D2700 | 650MHz |  |
-| RS812RP+ | Intel Atom D2700 | 650MHz |  |
-| RS2211+ | Intel Atom D525 | 400MHz |  |
-| RS2211RP+ | Intel Atom D525 | 400MHz |  |
-| RS810+ | Intel Atom D510 | 400MHz |  |
-| RS810RP+ | Intel Atom D510 | 400MHz |  |
+| RS2414+ | Intel Atom D2700 | GMA 3650 |  |
+| RS2414RP+ | Intel Atom D2700 | GMA 3650 |  |
+| RS814+ | Intel Atom D2700 | GMA 3650 |  |
+| RS814RP+ | Intel Atom D2700 | GMA 3650 |  |
+| RS1212+ | Intel Atom D2700 | GMA 3650 |  |
+| RS1212RP+ | Intel Atom D2700 | GMA 3650 |  |
+| RS812+ | Intel Atom D2700 | GMA 3650 |  |
+| RS812RP+ | Intel Atom D2700 | GMA 3650 |  |
+| RS2211+ | Intel Atom D525 | GMA 3150 |  |
+| RS2211RP+ | Intel Atom D525 | GMA 3150 |  |
+| RS810+ | Intel Atom D510 | GMA 3150 |  |
+| RS810RP+ | Intel Atom D510 | GMA 3150 |  |
 
 | DVA Model | CPU version | iGPU version | GPU version |
 |-----------|-------------|--------------|------|
