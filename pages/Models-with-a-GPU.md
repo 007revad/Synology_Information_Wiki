@@ -1,6 +1,6 @@
-### Models with a CPU with an iGPU
+### Models with a GPU
 
-| DS Model | CPU version | iGPU version | Note |
+| DS Model | CPU version | iGPU version | GPU version |
 |----------|-------------|--------------|------|
 | DS224+ | Intel Celeron J4125 | UHD Graphics 600 |  |
 | DS423+ | Intel Celeron J4125 | UHD Graphics 600 |  |
@@ -30,7 +30,7 @@
 | DS1010+ | Intel Atom D510 |  |  |
 | DS710+ | Intel Atom D410 |  |  |
 
-| RS Model | CPU version | iGPU version | Note |
+| RS Model | CPU version | iGPU version | GPU version |
 |----------|-------------|--------------|------|
 | RS2414+ | Intel Atom D2700 | 650MHz |  |
 | RS2414RP+ | Intel Atom D2700 | 650MHz |  |
@@ -45,10 +45,10 @@
 | RS810+ | Intel Atom D510 |  |  |
 | RS810RP+ | Intel Atom D510 |  |  |
 
-| DVA Model | CPU version | iGPU version | Note |
+| DVA Model | CPU version | iGPU version | GPU version |
 |-----------|-------------|--------------|------|
 | DVA1622 | Intel Celeron J4125 | UHD Graphics 600 |  |
-| DVA3221 | Intel Atom C3538 |   |  |
-| DVA3219 | Intel Atom C3538 |  |  |
+| DVA3221 | Intel Atom C3538 |   | NVIDIA GeForce GTX 1650 |
+| DVA3219 | Intel Atom C3538 |  | NVIDIA GeForce GTX 1050 Ti |
 
 The DVA3219 was announced by Synology as the DS1419dva
