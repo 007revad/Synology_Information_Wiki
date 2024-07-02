@@ -10,6 +10,10 @@ https://kb.synology.com/en-global/DSM/tutorial/Which_models_have_limited_support
 
 Models with SHR that have support_syno_hybrid_raid="yes" in synoinfo.conf in DSM 7.2.1
 
+<br>
+
+**DS models**
+
 - DS216+
 DS216+II
 DS216
@@ -70,9 +74,17 @@ DS1821+
 DS2419+II
 DS2422+
 
+<br>
+
+**DVA models**
+
 - DVA1622
 DVA3221
 DVA3219
+
+<br>
+
+**RS models**
 
 - RS422+
 
