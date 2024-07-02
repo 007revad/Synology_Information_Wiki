@@ -39,6 +39,7 @@ Hardware information of what various Synology models support
 * [Models that support RAID F1](pages/Models-that-support-RAID-F1.md)
 * [Models that support RAID Groups](pages/Models-that-support-RAID-Groups.md)
 * [Models that support SAS drives](pages/Models-that-support-SAS-drives.md)
+* [Models that support SHR (Synology Hybrid RAID)](pages/Models-that-support-SHR.md)
 * [Models that support SSD Cache](pages/Models-that-support-SSD-Cache.md)
 * [Models that support UASP](pages/Models-that-support-UASP.md)
 * [Models that use DeviceTree](pages/Models-that-use-DeviceTree.md)
