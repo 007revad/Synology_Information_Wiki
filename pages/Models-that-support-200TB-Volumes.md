@@ -42,8 +42,8 @@ There are 2 models that support 200TB volumes and SHR, that have no supportraidg
 
 | Model       | Memory Needed | File System | RAID Type      |
 | ------------|---------------|-------------|----------------|
-| DS1522+     | 32GB or more  | Btrfs       | RAID 5 or 6 ?  |
-| DS1621+     | 32GB or more  | Btrfs       | RAID 5 or 6 ?  |
-| DS1821+     | 32GB or more  | Btrfs       | RAID 5 or 6 ?  |
+| DS1522+     | 32GB or more  | Btrfs       |  |
+| DS1621+     | 32GB or more  | Btrfs       |  |
+| DS1821+     | 32GB or more  | Btrfs       |  |
 
 <br>
