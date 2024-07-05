@@ -1,4 +1,4 @@
-### NVMe speeds per Synology model
+### NVMe read speeds per Synology model
 
 If you want to check the read speed of your NVMe drive in your Synology NAS use:
 ```
@@ -8,6 +8,8 @@ or
 ```
 sudo hdparm -tT --direct /dev/nvme1n1
 ```
+
+To get your Synology's NVMe read speed added please [reply to this discussion](https://github.com/007revad/Synology_Information_Wiki/discussions/21).
 
 <br>
 
