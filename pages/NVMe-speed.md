@@ -13,13 +13,13 @@ To get your Synology's NVMe read speed added please [reply to this discussion](h
 
 <br>
 
-| Model   | Read Speed | NVMe brand/model     | Notes |
-|---------|------------|----------------------|-------|
-| DS1821+ | 2350 MB/s  | WD Black SN770 500GB | E10M20-T1 |
-| DS1821+ | 2350 MB/s  | WD Black SN770 500GB | M2D20 |
-| DS1821+ | 1300 MB/s  | WD Black SN770 500GB |  |
-| DS1621+ | 1300 MB/s  | 500GB | assumed to be the same as DS1821+ |
-| DS1520+ |  390 MB/s  | 500GB | assumed to be the same as DS720+ |
-| DS920+  |  390 MB/s  | 500GB | assumed to be the same as DS720+ |
-| DS720+  |  390 MB/s  | WD Black SN770 500GB |  |
+| Model   | PCIe info | Read Speed | NVMe brand/model     | Notes |
+|---------|-----------|------------|----------------------|-------|
+| DS1821+ | 3.0 x8 slot (x4 link) | 2350 MB/s  | WD Black SN770 500GB | E10M20-T1 |
+| DS1821+ | 3.0 x8 slot (x4 link) | 2350 MB/s  | WD Black SN770 500GB | M2D20 |
+| DS1821+ | PCIe 3.0 | 1300 MB/s  | WD Black SN770 500GB |  |
+| DS1621+ | PCIe 3.0 | 1300 MB/s  | 500GB | assumed to be the same as DS1821+ |
+| DS1520+ | PCIe 2.0 |  390 MB/s  | 500GB | assumed to be the same as DS720+ |
+| DS920+  | PCIe 2.0 |  390 MB/s  | 500GB | assumed to be the same as DS720+ |
+| DS720+  | PCIe 2.0 |  390 MB/s  | WD Black SN770 500GB |  |
 
