@@ -12,6 +12,7 @@ Hardware information of what various Synology models support
 * [HDD SSD Help](pages/HDD-SSD-Help.md)
 * [Ironwolf Health](pages/Ironwolf-Health.md)
 * [Linux Kernel in each platform arch](pages/Linux-Kernel-in-each-platform-arch.md)
+* [NVMe speed per NAS model](pages/NVMe-speed.md)
 * [NVMe Power Loss Protection](pages/NVMe-Power-Loss-Protection.md)
 * [PCIe network cards](pages/PCIe-network-cards.md)
 * [RAID min and max drives](pages/RAID-min-and-max-drives.md)
