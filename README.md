@@ -43,6 +43,7 @@ Hardware information of what various Synology models support
 * [Models that support SHR (Synology Hybrid RAID)](pages/Models-that-support-SHR.md)
 * [Models that support SSD Cache](pages/Models-that-support-SSD-Cache.md)
 * [Models that support UASP](pages/Models-that-support-UASP.md)
+* [Models that support WriteOnce and immutable snapshots (WORM)](pages/Models-that-support-WORM.md)
 * [Models that use DeviceTree](pages/Models-that-use-DeviceTree.md)
 * [Models that use sata1 instead of sda](pages/Models-that-use-sata1-instead-of-sda.md)
 * [Models with a GPU](pages/Models-with-a-GPU.md)
