@@ -8,6 +8,7 @@ Hardware information of what various Synology models support
 * [DSM versions per model](pages/DSM-versions-per-model.md)
 * [eSATA Expansion Unit Support](pages/eSATA-Expansion-Unit-Support.md)
 * [Expansion Unit support in DSM-7.2.1](pages/Expansion-Unit-support-in-DSM-7.2.1.md)
+* [ext4 for RackStations](pages/ext4_for_RackStations.md)
 * [FAN Speed Modes](pages/FAN-Speed-Modes.md)
 * [HDD SSD Help](pages/HDD-SSD-Help.md)
 * [Ironwolf Health](pages/Ironwolf-Health.md)
