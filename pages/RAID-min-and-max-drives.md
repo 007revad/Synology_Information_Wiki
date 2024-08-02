@@ -9,7 +9,7 @@
 | RAID 6  | 4 | 65,536 | 2 | yes  |
 | RAID 10 | 4 | 65,536 | # disks /2 | no |
 | Basic   | 1 | 1      | 0 | no  |
-| JBOD    | 1 not RAID group | 65,536 | 0 | no |
-| JBOD    | 2 with RAID Group | 65,536 | 0 | no |
+| JBOD    | 1 not RAID group | 65,536 | 0 |  |
+| JBOD    | 2 with RAID Group | 65,536 | 0 |  |
 | RAID 0  | 2 | 65,536 | 0 | no  |
 | RAID F1 | 3 | 65,536 | 1 | yes |
