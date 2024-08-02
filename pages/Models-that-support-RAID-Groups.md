@@ -21,3 +21,5 @@ Updated by 007revad July 2023 - Added HD6500, SA6400, SA3610, SA3410 and DS1823x
 - RS10613xs+, RS3413xs+
   
 https://kb.synology.com/en-global/DSM/tutorial/What_is_RAID_Group
+
+Note: RAID Groups only support RAID 5, RAID 6 and RAID F1
