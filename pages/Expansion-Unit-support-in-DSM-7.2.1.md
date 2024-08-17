@@ -5,18 +5,19 @@ https://www.reddit.com/r/synology/comments/186s6h8/comment/kbaue3c/
 | File              | RX418 | DX517 | RX415 | DX513 | DX213 | Comment    |
 |-------------------|-------|-------|-------|-------|-------|------------|
 | model.dtb         | no    | yes   | no    | no    | no    | see Note 1 |
-| synoinfo.conf     | yes   | yes   | no    | no    | no    | see Note 1 |
-| scemd             | yes   | yes   | no    | no    | no    | OK see Note 2 |
+| synoinfo.conf     | yes   | yes   | no    | no    | no    | see Note 2 |
+| scemd             | yes   | yes   | no    | no    | no    | OK see Note 3 |
 | scemd.xml         | yes   | yes   | yes   | yes   | yes   | OK         |
 | libhwcontrol.so.1 | yes   | yes   | yes   | yes   | yes   | OK         |
-| diskaction.xml    | no    | no    | no    | yes   | yes   | OK see Note 3 |
+| diskaction.xml    | no    | no    | no    | yes   | yes   | OK see Note 4 |
 | drive db file     | yes   | yes   | yes   | yes   | yes   | OK         |
 
 **Notes:**
 1. Use [Synology enable eunit](https://github.com/007revad/Synology_enable_eunit)
-2. Works without editing scemd.
-3. All NAS models have the same diskaction.xml
-4. All Synology NAS models have the required drive database files.
+2. synoinfo.conf only relevent for extended warranty (support_ew_20_eunit)
+3. Works without editing scemd.
+4. All NAS models have the same diskaction.xml
+5. All Synology NAS models have the required drive database files.
 
 <br>
 
