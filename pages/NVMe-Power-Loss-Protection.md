@@ -1,6 +1,10 @@
 ### NVMe drives with Power Loss Protection (PLP) in a Synology NAS
 
-Apparrently NVMe drives with power loss protection only come in the 22110 size. But all Synology NAS with built-in M.2 slots are 2280. And the only M.2 PCIe adaptor card that can take 22110 M.2 drives are the E10M20-T1 and M20D20.
+NVMe drives with power loss protection are more common in the 22110 size. But there are some 2280 size NVMe drives available: 
+- Addlink D60 NAS SSD NVMe drives in 500GB, 1TB and 2TB https://www.addlink.com.tw/nas-d60
+- Kingston data center NVMe drives in 240GB and 480GB https://www.kingston.com/en/ssd/dc1000b-data-center-boot-ssd
+
+All Synology NAS with built-in M.2 slots are 2280. The only M.2 PCIe adaptor card that can take 22110 M.2 drives are the E10M20-T1 and M20D20.
 
 - **E10M20-T1** specs: https://www.synology.com/en-global/products/E10M20-T1#specs
 - **M20D20** specs: https://www.synology.com/en-global/products/M2D20#specs
