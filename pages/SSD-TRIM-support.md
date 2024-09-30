@@ -38,7 +38,7 @@ DSM 7.2 and later:
 | RAID 1 |	yes |
 | Basic |	yes |
 | JBOD |	yes |
-| RAID 0 |	no |
+| RAID 0 |	**NO** |
 | RAID 5 |	yes |
 | RAID 6 |	 |
 | RAID 10 |  |
