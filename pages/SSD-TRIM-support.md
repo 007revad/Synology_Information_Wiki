@@ -41,5 +41,5 @@ DSM 7.2 and later:
 | RAID 0 |	**NO** |
 | RAID 5 |	yes |
 | RAID 6 |	yes |
-| RAID 10 |  |
+| RAID 10 | yes |
 | RAID F1 |  |
