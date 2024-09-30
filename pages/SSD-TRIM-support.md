@@ -40,6 +40,6 @@ DSM 7.2 and later:
 | JBOD |	yes |
 | RAID 0 |	**NO** |
 | RAID 5 |	yes |
-| RAID 6 |	 |
+| RAID 6 |	yes |
 | RAID 10 |  |
 | RAID F1 |  |
