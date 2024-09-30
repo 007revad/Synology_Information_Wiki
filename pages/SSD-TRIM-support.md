@@ -34,7 +34,7 @@ DSM 7.2 and later:
 | RAID Type | TRIM Supported |
 |-----------|----------------|
 | SHR |	yes |
-| SHR-2 |	 |
+| SHR-2 |	yes |
 | RAID 1 |	yes |
 | Basic |	yes |
 | JBOD |	yes |
