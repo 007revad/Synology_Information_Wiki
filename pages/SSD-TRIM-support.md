@@ -24,3 +24,22 @@ DS416slim
 RS217
 RS816
 ```
+
+#### M.2 drive TRIM support
+
+DSM 7.1.1. has no SSD TRIM setting for M.2 storage pools
+
+DSM 7.2 and later: 
+
+| RAID Type | TRIM Supported |
+|-----------|----------------|
+| SHR |	yes |
+| SHR-2 |	yes |
+| RAID 1 |	yes |
+| Basic |	yes |
+| JBOD |	yes |
+| RAID 0 |	**NO** |
+| RAID 5 |	yes |
+| RAID 6 |	yes |
+| RAID 10 | yes |
+| RAID F1 | yes |
