@@ -1,6 +1,8 @@
 Officially no Synology NAS supports using M.2 drives in a PCIe card as a volume and they can only be used a cache.
 
-Unofficially you can use https://github.com/007revad/Synology_M2_volume 
+Unofficially you can use either:
+- https://github.com/007revad/Synology_HD_db for newer NAS models
+- Or https://github.com/007revad/Synology_M2_volume for all NAS models
 
 
 ***
