@@ -348,6 +348,8 @@
 
 **Some statistics - 08-Dec-2024**
 
+There have been 247 different Synology models to date (not counting Virtual DSM).
+
 ```
 48 models were EOL before 6.2.4 was released
 41 models were EOL before 7.1 was released
