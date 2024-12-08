@@ -343,3 +343,18 @@
 | SkyNAS | 6.1.5-15254 | 6.2.3-25426 | EOL |
 
 </details>
+
+<br>
+
+**Some statistics - 08-Dec-2024**
+
+```
+48 models were EOL before 6.2.4 was released
+41 models were EOL before 7.1 was released
+43 models were EOL before 7.2 was released
+```
+
+```
+132 models cannot use DSM 7.2
+115 models can use DSM 7.2
+```
