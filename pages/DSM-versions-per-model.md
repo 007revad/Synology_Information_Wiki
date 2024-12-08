@@ -357,14 +357,7 @@ There have been 247 different Synology models to date (not counting Virtual DSM)
 ```
 
 ```
-132 models cannot use DSM 7.2
 115 models can use DSM 7.2
-```
-
-```
-155 can use DSM 7.1.1
-```
-
-```
+155 models can use DSM 7.1.1
 175 models can use DSM 6.2.4
 ```
