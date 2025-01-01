@@ -4,7 +4,7 @@ https://kb.synology.com/en-ca/DSM/tutorial/What_type_of_fan_speed_modes_are_avai
 
 <br>
 
-Some models run the fans at full or high speed when a network card is installed. The configured by a setting in /etc.defaults/synoinfo.conf
+Some models run the fans at full or high speed when a network card is installed. This is configured by a setting in /etc.defaults/synoinfo.conf
 
 For some reason Synology chose to run the fans at full speed for the RS2418RP+ and RS2418+
 ```
@@ -56,7 +56,7 @@ So you don't have to do that after every DSM update you can set a scheduled task
 1. Go to **Control Panel** > **Task Scheduler** > click **Create** > and select **Triggered Task**.
 2. Select **User-defined script**.
 3. Enter a task name.
-4. Select **root** as the user (The script needs to run as root).
+4. Select **root** as the user (The command needs to run as root).
 5. Select **Boot-up** as the event that triggers the task.
 6. Leave **Enable** ticked.
 7. Click **Task Settings**.
