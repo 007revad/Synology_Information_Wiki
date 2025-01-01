@@ -56,7 +56,7 @@ So you don't have to do that after every DSM update you can set a scheduled task
 1. Go to **Control Panel** > **Task Scheduler** > click **Create** > and select **Triggered Task**.
 2. Select **User-defined script**.
 3. Enter a task name.
-4. Select **root** as the user (The script needs to run as root).
+4. Select **root** as the user (The command needs to run as root).
 5. Select **Boot-up** as the event that triggers the task.
 6. Leave **Enable** ticked.
 7. Click **Task Settings**.
