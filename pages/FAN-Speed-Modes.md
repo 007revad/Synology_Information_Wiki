@@ -4,7 +4,7 @@ https://kb.synology.com/en-ca/DSM/tutorial/What_type_of_fan_speed_modes_are_avai
 
 <br>
 
-Some models run the fans at full or high speed when a network card is installed. The configured by a setting in /etc.defaults/synoinfo.conf
+Some models run the fans at full or high speed when a network card is installed. This is configured by a setting in /etc.defaults/synoinfo.conf
 
 For some reason Synology chose to run the fans at full speed for the RS2418RP+ and RS2418+
 ```
