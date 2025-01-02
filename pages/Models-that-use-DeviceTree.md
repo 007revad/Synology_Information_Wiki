@@ -40,12 +40,12 @@ Last updated 11 March 2024
 ||||
 | FS2500       | AMD Ryzen V1780B        | V1000         |
 | FS3410       | Intel Xeon D-1541       | Broadwellnkv2 |
-| FS6400       | Intel Xeon D-1567       | Broadwellnk   |
+| FS6400       | Intel Xeon D-1567       | Purley        |
 ||||
 | HD6500       | Intel Xeon Silver 4210R | Purley        |
 ||||
 | SA3410       | Intel Xeon D-1541       | Broadwellnkv2 |
-| SA3610       | Intel Xeon D-1567       | Broadwellnk   |
+| SA3610       | Intel Xeon D-1567       | Broadwellnkv2 |
 | SA6400       | AMD EPYC 7272           | Epyc7002      |
 
 ### Flat list
