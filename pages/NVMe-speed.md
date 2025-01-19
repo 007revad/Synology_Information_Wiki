@@ -29,4 +29,5 @@ To get your Synology's NVMe read speed added please [reply to this discussion](h
 | DS720+  | PCIe 2.0 x1 |  400 MB/s  | Phison SPCC 500GB |  |
 | DS720+  | PCIe 2.0 x1 |  390 MB/s  | WD Black SN770 500GB |  |
 | DS423+  | PCIe 2.0 x1 |  740 MB/s  | Crucial P3 plus 2TB |  |
-
+|  |  |  |  |  |
+| RS3617RPxs | 3.0 x8 slot | 2055 MB/s | Samsung 970 EVO plus 1TB | AliExpress cheap adaptor card (pcie3.0 x4 lane) |
