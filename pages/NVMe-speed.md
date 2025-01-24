@@ -21,12 +21,16 @@ To get your Synology's NVMe read speed added please [reply to this discussion](h
 | DS1821+ | PCIe 3.0 x2 | 1300 MB/s  | WD Black SN770 500GB |  |
 | DS1621+ | PCIe 3.0 x2 | 1300 MB/s  | 500GB | assumed to be the same as DS1821+ |
 | DS1522+ | PCIe 3.0 x1 | ? | |
-| DS923+  | PCIe 3.0 x1 | ? | |
-| DS723+  | PCIe 3.0 x1 | ? | |
 | DS1520+ | PCIe 2.0 x1 |  400 MB/s  | 500GB | assumed to be the same as DS720+ |
+| DS1019+ | PCIe 2.0 x1 |  380 MB/s  | Intel SSDPEKKF512G8 512GB |  |
+| DS1019+ | PCIe 2.0 x1 |  153 MB/s  | Inland Premium 1TB |  |
+| DS923+  | PCIe 3.0 x1 | ? | |
 | DS920+  | PCIe 2.0 x1 |  400 MB/s  | 500GB | assumed to be the same as DS720+ |
 | DS918+  | PCIe 2.0 x1 |  400 MB/s  |  |  |
+| DS723+  | PCIe 3.0 x1 | ? | |
 | DS720+  | PCIe 2.0 x1 |  400 MB/s  | Phison SPCC 500GB |  |
 | DS720+  | PCIe 2.0 x1 |  390 MB/s  | WD Black SN770 500GB |  |
 | DS423+  | PCIe 2.0 x1 |  740 MB/s  | Crucial P3 plus 2TB |  |
-
+|  |  |  |  |  |
+| RS3617RPxs | 3.0 x8 slot | 2055 MB/s | Samsung 970 EVO plus 1TB | [AliExpress cheap sinlge M2 adaptor card](https://www.aliexpress.com/item/1005002603686315.html) |
+| RS1221+ | 3.0 x8 slot (x4 link) | 1465 MB/s | Samsung 980 1TB | E10M20-T1 |
