@@ -21,6 +21,8 @@ To get your Synology's NVMe read speed added please [reply to this discussion](h
 | DS1821+ | 3.0 x8 slot (x4 link) | 2350 MB/s  | WD Black SN770 500GB | E10M20-T1 |
 | DS1821+ | 3.0 x8 slot (x4 link) | 2350 MB/s  | WD Black SN770 500GB | M2D20 |
 | DS1821+ | PCIe 3.0 x2 | 1300 MB/s  | WD Black SN770 500GB |  |
+| DS1621xs+ | PCIe 3.0 x2 | 2400 MB/s  | WD Black SN850 |  |
+| DS1621xs+ | PCIe 3.0 x2 | 2400 MB/s  | Samsung SSD PM883 |  |
 | DS1621+ | PCIe 3.0 x2 | 1300 MB/s  | 500GB | assumed to be the same as DS1821+ |
 | DS1522+ | PCIe 3.0 x1 |  750 MB/s  | Samsung 980 Pro SSD 1TB |  |
 | DS1520+ | PCIe 2.0 x1 |  400 MB/s  | Kingston KC3000 2048 GB | |
