@@ -28,6 +28,7 @@ To get your Synology's NVMe read speed added please [reply to this discussion](h
 | DS1520+ | PCIe 2.0 x1 |  400 MB/s  | Kingston KC3000 2048 GB | |
 | DS1019+ | PCIe 2.0 x1 |  380 MB/s  | Intel SSDPEKKF512G8 512GB |  |
 | DS1019+ | PCIe 2.0 x1 |  153 MB/s  | Inland Premium 1TB |  |
+| DS925+  | PCIe 3.0 x1 |  670 MB/s  | Crucial P3 plus 500GB |  |
 | DS923+  | PCIe 3.0 x1 |  750 MB/s  | | assumed to be the same as DS1522+ |
 | DS920+  | PCIe 2.0 x1 |  390 MB/s  | Kingston NVME-SSD 1TB |  |
 | DS918+  | PCIe 2.0 x1 |  400 MB/s  |  |  |
