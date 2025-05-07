@@ -9,7 +9,7 @@ Synology's with older CPU architectures use kernel 3.10
 
 | [Platform arch](https://kb.synology.com/en-global/DSM/tutorial/What_kind_of_CPU_does_my_NAS_have) | Kernel | Models |
 |----------|--------|--------|
-| v1000nk  | 5.10.55+ | DS925+ |
+| v1000nk  | 5.10.55+ | DS1825+, DS1525+ and DS925+ |
 | epyc7002 | 5.10.x | SA6400 |
 | rtd1619b | 5.10.x | DS124, DS423, DS223j and DS223 |
 | | | |
