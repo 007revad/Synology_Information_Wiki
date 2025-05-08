@@ -7,6 +7,7 @@ Hardware information of what various Synology models support
 * [DSM version types](pages/DSM-version-types.md) (Major, Minor, Micro, Build, Nano)
 
 ### General Hardware Information
+* [2025_and_later_Plus_model_drive_restrictions](pages/2025plus_drives.md)
 * [CPU information](pages/CPU-information.md)
 * [DSM versions per model](pages/DSM-versions-per-model.md)
 * [eSATA Expansion Unit Support](pages/eSATA-Expansion-Unit-Support.md)
