@@ -3,7 +3,6 @@ DSM on 2025 and later Plus series (and probably also DSM 8 for all models) does 
 - Set Package Center to not update packages automatically.
 
 Synology have a provided a way, via SSH, to stop DSM or packages from updating automatically, but it stops both DSM and packages from auto updating.
-
 https://kb.synology.com/en-global/DSM/tutorial/stop_system_package_auto_update
 
 **Disable Package Center Auto Updates and DSM Auto Updates**
