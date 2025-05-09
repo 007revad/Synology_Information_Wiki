@@ -21,9 +21,10 @@ sudo /usr/libexec/syno-update-settings --unset-autoupdatetype-notify
 
 **Disable DSM Auto Updates**
 - Removes the schedule options in Control Panel > DSM Update > Settings
+- We'll also disable those sneaky smart nano auto-updates
 - Edit /usr/syno/etc/update.conf to <br>
 ```
-{"autoupdate_type":"notify","smart_nano_enabled":true}
+{"autoupdate_type":"notify","smart_nano_enabled":false}
 ```
 
 **Enable DSM Auto Updates**
