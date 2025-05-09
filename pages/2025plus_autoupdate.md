@@ -26,12 +26,20 @@ sudo /usr/libexec/syno-update-settings --unset-autoupdatetype-notify
 ```
 {"autoupdate_type":"notify","smart_nano_enabled":false}
 ```
+You can use:
+```
+sudo echo -n '{"autoupdate_type":"notify","smart_nano_enabled":false}' > /usr/syno/etc/update.conf
+```
 
 **Enable DSM Auto Updates**
 - Restores the schedule options in Control Panel > DSM Update > Settings
 - Edit /usr/syno/etc/update.conf to <br>
 ```
 {"autoupdate_type":"hotfix-security","smart_nano_enabled":true}
+```
+You can use:
+```
+sudo echo -n '{"autoupdate_type":"hotfix-security","smart_nano_enabled":true}' > /usr/syno/etc/update.conf
 ```
 
 <br>
