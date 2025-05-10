@@ -1,6 +1,7 @@
 From [Synology's Software_Life_Cycle_Policy_enu.pdf](https://global.download.synology.com/download/Document/Software/WhitePaper/Os/DSM/All/enu/Software_Life_Cycle_Policy_enu.pdf) - 
 Last updated: Jul 2, 2024
 
+Or see https://kb.synology.com/en-global/WP/Software_Life_Cycle_Policy/2
 
 ### DiskStation Manager (DSM)
 
