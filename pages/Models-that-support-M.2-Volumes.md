@@ -4,6 +4,9 @@ https://kb.synology.com/en-global/DSM/tutorial/Which_models_support_M_2_SSD_stor
 
 Which Synology NAS models support using M.2 SSDs to create storage pools?
 
+**25-series**
+- DS1825+, DS1525+, DS925+, DS725+, DS425+
+
 **23-series**
 - DS1823xs+, DS923+, DS723+, DS423+
 
@@ -15,7 +18,7 @@ Which Synology NAS models support using M.2 SSDs to create storage pools?
 
 <br>
 
-### Synology models that can be made to support M.2 volumes (on DSM 7.2 and above).
+### Synology models that can unofficially be made to support M.2 volumes (on DSM 7.2 and above).
 
 ```
 DS420+
