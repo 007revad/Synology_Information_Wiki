@@ -2,8 +2,8 @@
 
 | Drive Series | Type           | Drive Model | Manufacturer | Based on     |              |
 |--------------|----------------|-------------|--------------|--------------|--------------|
-| Plus         | SATA 3.5" HDD  | HAT3310     | Toshiba      | N300         |
-| Plus         | SATA 3.5" HDD  | HAT3300     | Seagate      | Ironwolf     | Discontinued? |
+| Plus         | SATA 3.5" HDD  | HAT3310     | Toshiba      | N300         | 8, 12 and 16TB |
+| Plus         | SATA 3.5" HDD  | HAT3300     | Seagate      | Ironwolf     | 2, 4 and 6TB |
 | Enterprise   | SATA 3.5" HDD  | HAT5310     | Seagate? Toshiba? | Ironwolf Pro? MG09? |
 | Enterprise   | SATA 3.5" HDD  | HAT5300     | Toshiba      | MG08         | Discontinued? |
 | | | | | |
