@@ -40,3 +40,5 @@ To get your Synology's NVMe read speed added please [reply to this discussion](h
 |  |  |  |  |  |
 | RS3617RPxs | 3.0 x8 slot | 2055 MB/s | Samsung 970 EVO plus 1TB | [AliExpress cheap sinlge M2 adaptor card](https://www.aliexpress.com/item/1005002603686315.html) |
 | RS1221+ | 3.0 x8 slot (x4 link) | 1465 MB/s | Samsung 980 1TB | E10M20-T1 |
+|  |  |  |  |  |
+| AS5404T | PCIe 3.0 x1 | 2108 MB/s  | WD Black SN770 500GB | Asustor |

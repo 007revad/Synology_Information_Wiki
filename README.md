@@ -1,7 +1,7 @@
 # Synology Information Wiki
 Hardware information of what various Synology models support
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F007revad%2FSynology_Information_Wiki&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F007revad%2FSynology_Information_Wiki&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=Australia%2FSydney)
 
 ### General Software Information
 * [DSM version types](pages/DSM-version-types.md) (Major, Minor, Micro, Build, Nano)
