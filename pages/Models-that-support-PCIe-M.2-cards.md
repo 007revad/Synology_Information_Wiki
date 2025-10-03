@@ -13,7 +13,8 @@ https://www.synology.com/en-global/products/E10M20-T1#specs
 
 ```
 NVMe SSD
-  SA series: SA3600, SA3400, SA6400
+  SA series: SA6400, SA3610, SA3600, SA3410, SA3400
+  25 series: RS2825RP+
   23 series: RS2423RP+, RS2423+
   22 series: RS822RP+, RS822+, DS3622xs+, DS2422+
   21 series: RS4021xs+, RS3621xs+, RS3621RPxs, RS2821RP+, RS2421RP+, RS2421+, RS1221RP+, RS1221+
@@ -35,7 +36,8 @@ NVMe SSD
 https://www.synology.com/en-global/products/M2D20#specs
 ```
 NVMe SSD
-  SA series: SA3600, SA3400, SA6400
+  SA series: SA6400, SA3610, SA3600, SA3410, SA3400
+  25 series: RS2825RP+
   23 series: RS2423RP+, RS2423+
   22 series: RS822RP+, RS822+, DS3622xs+, DS2422+
   21 series: RS4021xs+, RS3621xs+, RS3621RPxs, RS2821RP+, RS2421RP+, RS2421+, RS1221RP+, RS1221+
