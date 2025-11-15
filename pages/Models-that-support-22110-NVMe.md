@@ -1,6 +1,10 @@
-Only the E10M20-T1 and M2D20 support 110mm NVMe drives. All of the NAS models with built-in M.2 slots only support 80mm.
+All of the NAS models with built-in M.2 slots only support 2280 NVMe drives.
 
-So that means the models that can use a 110mm NVMe drive are:
+Only the E10M20-T1 and M2D20 support 22110 NVMe drives.
+- https://www.synology.com/en-global/products/E10M20-T1#specs
+- https://www.synology.com/en-global/products/M2D20#specs
+
+So that means the models that can use a 22110 NVMe drive are:
 
 - SA series: SA6400, SA3610, SA3600, SA3410, SA3400
 - 25 series: RS2825RP+
