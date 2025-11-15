@@ -39,6 +39,7 @@ Hardware information of what various Synology models support
 * [Models that support E10G22‐T1‐Mini](pages/Models-that-support-E10G22%E2%80%90T1%E2%80%90Mini.md)
 * [Models that support Expansion Units](pages/Models-that-support-Expansion-Units.md)
 * [Models that support Immutable Snapshots](pages/Models-that-support-Immutable-Snapshots.md)
+* [Models that support 22110 NVMe drives](pages/Models-that-support-22110-NVMe.md)
 * [Models that support M.2 Drives](pages/Models-that-support-M.2-Drives.md)
 * [Models that support M.2 Volumes](pages/Models-that-support-M.2-Volumes.md)
 * [Models that support PCIe M.2 cards](pages/Models-that-support-PCIe-M.2-cards.md)
