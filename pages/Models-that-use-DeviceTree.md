@@ -11,17 +11,23 @@ Last updated 11 March 2024
 | DS223        | Realtek RTD1619B        | rtd1619b      |
 | DS223j       | Realtek RTD1619B        | rtd1619b      |
 | DS224+       | Intel Celeron J4125     | Geminilake    |
+| DS225+       | Intel Celeron J4125     | Geminilakenk  |
 | DS420+       | Intel Celeron J4025     | Geminilake    |
 | DS423+       | Intel Celeron J4125     | Geminilake    |
+| DS425+       | Intel Celeron J4125     | Geminilakenk  |
 | DS423        | Realtek RTD1619B        | rtd1619b      |
 | DS720+       | Intel Celeron J4125     | Geminilake    |
 | DS723+       | AMD Ryzen R1600         | R1000         |
+| DS725+       | AMD Ryzen R1600         | R1000nk       |
 | DS920+       | Intel Celeron J4125     | Geminilake    |
 | DS923+       | AMD Ryzen R1600         | R1000         |
+| DS925+       | AMD Ryzen V1500B        | V1000nk       |
 | DS1520+      | Intel Celeron J4125     | Geminilake    |
 | DS1522+      | AMD Ryzen R1600         | R1000         |
+| DS1525+      | AMD Ryzen V1500B        | V1000nk       |
 | DS1621+      | AMD Ryzen V1500B        | V1000         |
 | DS1821+      | AMD Ryzen V1500B        | V1000         |
+| DS1825+      | AMD Ryzen V1500B        | V1000nk       |
 | DS1823xs+    | AMD Ryzen V1780B        | V1000         |
 | DS2422+      | AMD Ryzen V1500B        | V1000         |
 ||||
@@ -35,6 +41,7 @@ Last updated 11 March 2024
 | RS2423+      | AMD Ryzen V1780B        | V1000         |
 | RS2423RP+    | AMD Ryzen V1780B        | V1000         |
 | RS2821RP+    | AMD Ryzen V1500B        | V1000         |
+| RS2825RP+    | AMD Ryzen V1500B        | V1000nk       |
 ||||
 | DVA1622      | Intel Celeron J4125     | Geminilake    |
 ||||
@@ -56,17 +63,23 @@ DS220+
 DS223
 DS223j
 DS224+
+DS225+
 DS420+
 DS423+
+DS425+
 DS423
 DS720+
 DS723+
+DS725+
 DS920+
 DS923+
+DS925+
 DS1520+
 DS1522+
+DS1525+
 DS1621+
 DS1821+
+DS1825+
 DS1823xs+
 DS2422+
 
@@ -80,6 +93,7 @@ RS2421RP+
 RS2423+
 RS2423RP+
 RS2821RP+
+RS2825RP+
 
 DVA1622
 
