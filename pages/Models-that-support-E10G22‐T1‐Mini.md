@@ -1,5 +1,8 @@
 https://www.synology.com/en-global/products/E10G22-T1-Mini#specs
 
+### 25 series:
+- DS1525+
+
 ### 23 series:
 - DS923+, DS723+
 
@@ -11,7 +14,7 @@ https://www.synology.com/en-global/products/E10G22-T1-Mini#specs
 
 <br>
 
-DSM for the DS923+, DS723+, DS1522+ and RS422+ includes drivers for:
+DSM for the DS1525+, DS923+, DS723+, DS1522+ and RS422+ includes drivers for:
 - aqc107
 - aqc113
 
