@@ -6,6 +6,7 @@ Hardware information of what various Synology models support
 ### General Software Information
 * [DSM version types](pages/DSM-version-types.md) (Major, Minor, Micro, Build, Nano)
 * [2025_and_later_Plus_model_auto_update](pages/2025plus_autoupdate.md)
+* [How to disable DSM and package auto updates](pages/disable_auto_updates.md)
 
 ### General Hardware Information
 * [2025_and_later_Plus_model_drive_restrictions](pages/2025plus_drives.md)
