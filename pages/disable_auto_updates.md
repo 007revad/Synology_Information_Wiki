@@ -9,7 +9,7 @@ But via SSH we can bring back the DSM updates notify option and the disable pack
 ## DSM Auto Updates
 
 Default DSM update settings:
-<p align="left"><img src="pages/images/dsm_update_default.png"></p>
+<p align="left"><img src="images/dsm_update_default.png"></p>
 
 **To bring back the Notify option for DSM Updates:**
 
@@ -24,7 +24,7 @@ Or in Task Scheduler create a "User defined script" scheduled task to run as roo
 ```
 
 Result:
-<p align="left"><img src="pages/images/dsm_update_notify.png"></p>
+<p align="left"><img src="images/dsm_update_notify.png"></p>
 
 **To restore it to default:**
 ```
@@ -34,7 +34,7 @@ sudo /usr/libexec/syno-update-settings --unset-autoupdatetype-notify
 ## Package Center Auto Updates
 
 Default Package Center update settings:
-<p align="left"><img src="pages/images/pkg_update_default.png"></p>
+<p align="left"><img src="images/pkg_update_default.png"></p>
 
 **To bring back the Disable Package Center Auto Updates option:**
 
@@ -49,7 +49,7 @@ synosetkeyvalue /etc/synoinfo.conf show_autoupdatetype_notify yes
 ```
 
 Result:
-<p align="left"><img src="pages/images/pkg_update_disable.png"></p>
+<p align="left"><img src="images/pkg_update_disable.png"></p>
 
 **To restore it to default:**
 ```
