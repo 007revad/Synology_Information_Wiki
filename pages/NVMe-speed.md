@@ -15,6 +15,7 @@ To get your Synology's NVMe read speed added please [reply to this discussion](h
 
 | Model   | PCIe info | Read Speed | NVMe brand/model     | Notes |
 |---------|-----------|------------|----------------------|-------|
+| DS1825+ | PCIe 3.0 x2 | 1300 MB/s  |  | assumed to be the same as DS1821+ |
 | DS1823xs+ | 3.0 x8 slot (x4 link) | 2400 MB/s  |  | E10M20-T1 |
 | DS1823xs+ | 3.0 x8 slot (x4 link) | 2400 MB/s  |  | M2D20 |
 | DS1823xs+ | PCIe 3.0 x2 | 715 MB/s | WD Black SN850x 8TB | |
@@ -23,13 +24,14 @@ To get your Synology's NVMe read speed added please [reply to this discussion](h
 | DS1821+ | PCIe 3.0 x2 | 1300 MB/s  | WD Black SN770 500GB |  |
 | DS1621xs+ | PCIe 3.0 x2 | 2400 MB/s  | WD Black SN850 |  |
 | DS1621xs+ | PCIe 3.0 x2 | 2400 MB/s  | Samsung SSD PM883 |  |
-| DS1621+ | PCIe 3.0 x2 | 1300 MB/s  | 500GB | assumed to be the same as DS1821+ |
-| DS1522+ | PCIe 3.0 x1 |  750 MB/s  | Samsung 980 Pro SSD 1TB |  |
+| DS1621+ | PCIe 3.0 x2 | 1300 MB/s  | 500GB |  |
+| DS1525+ | PCIe 3.0 x2 |  718 MB/s  | WD Red SN700 1TB |  |
+| DS1522+ | PCIe 3.0 x2 |  750 MB/s  | Samsung 980 Pro SSD 1TB |  |
 | DS1520+ | PCIe 2.0 x1 |  400 MB/s  | Kingston KC3000 2048 GB | |
 | DS1019+ | PCIe 2.0 x1 |  380 MB/s  | Intel SSDPEKKF512G8 512GB |  |
 | DS1019+ | PCIe 2.0 x1 |  153 MB/s  | Inland Premium 1TB |  |
-| DS925+  | PCIe 3.0 x1 |  670 MB/s  | Crucial P3 plus 500GB |  |
-| DS923+  | PCIe 3.0 x1 |  750 MB/s  | | assumed to be the same as DS1522+ |
+| DS925+  | PCIe 3.0 x2 |  670 MB/s  | Crucial P3 plus 500GB |  |
+| DS923+  | PCIe 3.0 x2 |  750 MB/s  | | assumed to be the same as DS1522+ |
 | DS920+  | PCIe 2.0 x1 |  390 MB/s  | Kingston NVME-SSD 1TB |  |
 | DS918+  | PCIe 2.0 x1 |  400 MB/s  |  |  |
 | DS723+  | PCIe 3.0 x1 |  730 MB/s  | | assumed to be the same as DS1522+ |
@@ -38,7 +40,8 @@ To get your Synology's NVMe read speed added please [reply to this discussion](h
 | DS720+  | PCIe 2.0 x1 |  390 MB/s  | Samsung Evo 970 2TB |  |
 | DS423+  | PCIe 2.0 x1 |  740 MB/s  | Crucial P3 plus 2TB |  |
 |  |  |  |  |  |
-| RS3617RPxs | 3.0 x8 slot | 2055 MB/s | Samsung 970 EVO plus 1TB | [AliExpress cheap sinlge M2 adaptor card](https://www.aliexpress.com/item/1005002603686315.html) |
+| RS3617RPxs | PCIe 3.0 x8 | 2055 MB/s | Samsung 970 EVO plus 1TB | [AliExpress cheap sinlge M2 adaptor card](https://www.aliexpress.com/item/1005002603686315.html) |
+| RS2825+ | 3.0 x8 slot (x4 link) | 1465 MB/s |  | assumed to be the same as RS1221+ |
 | RS1221+ | 3.0 x8 slot (x4 link) | 1465 MB/s | Samsung 980 1TB | E10M20-T1 |
 |  |  |  |  |  |
-| AS5404T | PCIe 3.0 x1 | 2108 MB/s  | WD Black SN770 500GB | Asustor |
+| AS5404T | PCIe 3.0 x1 | 2108 MB/s  | WD Black SN770 500GB | Asustor (for comparison) |

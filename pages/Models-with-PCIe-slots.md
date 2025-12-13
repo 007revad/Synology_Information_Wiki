@@ -1,10 +1,11 @@
-Synology NAS models that have PCIe slots (that support DSM 7.2.1)
+Synology NAS models that have PCIe slots (that support DSM 7.2.1 or later)
 
 ```
 DS723+		Gen3 x2 slot - E10G22-T1-Mini only
 DS923+		Gen3 x2 slot - E10G22-T1-Mini only
 DS1517+		Gen 2 x8 slot (x4 link)
 DS1522+		Gen3 x2 slot - E10G22-T1-Mini only
+DS1525+		Gen3 x2 slot - E10G22-T1-Mini only
 DS1618+		Gen3 x8 slot (x4 link)
 DS1621+		Gen3 x8 slot (x4 link)
 DS1621xs+	Gen3 x8 slot (x8 link)
@@ -40,6 +41,7 @@ RS2423+		Gen3 x8 slot (x4 link)
 RS2423RP+	Gen3 x8 slot (x4 link)
 RS2818RP+	Gen3 x8 slot (x4 link)
 RS2821RP+	Gen3 x8 slot (x4 link)
+RS2825RP+	Gen3 x8 slot (x4 link)
 RS3617xs+	2 x Gen3 x8 slots (x8 link)
 RS3617xs	2 x Gen3 x8 slots (x8 link)
 RS3617RPxs	2 x Gen3 x8 slots (x8 link)

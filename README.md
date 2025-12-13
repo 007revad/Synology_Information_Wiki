@@ -6,6 +6,7 @@ Hardware information of what various Synology models support
 ### General Software Information
 * [DSM version types](pages/DSM-version-types.md) (Major, Minor, Micro, Build, Nano)
 * [2025_and_later_Plus_model_auto_update](pages/2025plus_autoupdate.md)
+* [How to disable DSM and package auto updates](pages/disable_auto_updates.md)
 
 ### General Hardware Information
 * [2025_and_later_Plus_model_drive_restrictions](pages/2025plus_drives.md)
@@ -39,6 +40,7 @@ Hardware information of what various Synology models support
 * [Models that support E10G22‐T1‐Mini](pages/Models-that-support-E10G22%E2%80%90T1%E2%80%90Mini.md)
 * [Models that support Expansion Units](pages/Models-that-support-Expansion-Units.md)
 * [Models that support Immutable Snapshots](pages/Models-that-support-Immutable-Snapshots.md)
+* [Models that support 22110 NVMe drives](pages/Models-that-support-22110-NVMe.md)
 * [Models that support M.2 Drives](pages/Models-that-support-M.2-Drives.md)
 * [Models that support M.2 Volumes](pages/Models-that-support-M.2-Volumes.md)
 * [Models that support PCIe M.2 cards](pages/Models-that-support-PCIe-M.2-cards.md)
@@ -49,6 +51,7 @@ Hardware information of what various Synology models support
 * [Models that support SHR (Synology Hybrid RAID)](pages/Models-that-support-SHR.md)
 * [Models that support SSD Cache](pages/Models-that-support-SSD-Cache.md)
 * [Models that support UASP](pages/Models-that-support-UASP.md)
+* [Models that support Btrfs](pages/Models-that-support-btrfs.md)
 * [Models that support WriteOnce and immutable snapshots (WORM)](pages/Models-that-support-WORM.md)
 * [Models that use DeviceTree](pages/Models-that-use-DeviceTree.md)
 * [Models that use sata1 instead of sda](pages/Models-that-use-sata1-instead-of-sda.md)
