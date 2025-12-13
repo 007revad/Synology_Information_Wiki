@@ -1,3 +1,5 @@
+https://kb.synology.com/en-global/DSM/tutorial/stop_system_package_auto_update
+
 ## How to bring back the DSM update Notify option and Package Center Disable option
 
 DSM 7.3 for all models (and DSM 7.2.2 for 25+ models):
