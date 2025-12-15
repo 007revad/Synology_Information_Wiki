@@ -11,6 +11,7 @@ Hardware information of what various Synology models support
 ### General Hardware Information
 * [2025_and_later_Plus_model_drive_restrictions](pages/2025plus_drives.md)
 * [CPU information](pages/CPU-information.md)
+* [Check manufacture date](pages/Check-manufacture-date.md)
 * [DSM versions per model](pages/DSM-versions-per-model.md)
 * [eSATA Expansion Unit Support](pages/eSATA-Expansion-Unit-Support.md)
 * [Expansion Unit support in DSM-7.2.1](pages/Expansion-Unit-support-in-DSM-7.2.1.md)
