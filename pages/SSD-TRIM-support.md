@@ -1,3 +1,6 @@
+For DSM 7.3 and later Synology have disabled SSD TRIM on unverified SSDs.
+- Technically the change was in the Storage Manager 1.0.0-01026 package but only DSM 7.3 and later have Storage Manager 1.0.0-01026.
+
 Enable SSD TRIM
 - https://kb.synology.com/en-global/DSM/help/DSM/StorageManager/volume_ssd_trim?version=7
  

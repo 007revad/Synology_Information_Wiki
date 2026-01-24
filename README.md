@@ -35,6 +35,7 @@ Hardware information of what various Synology models support
 * [WDDA information](pages/WDDA-information.md)
 
 ### Which Models Support Which Hardware Feature
+* [Models with increased fan speed in DSM 7.3.2](pages/Models-with-increased-fan-speed.md)
 * [Models that run fans full speed due to PCIe NIC](pages/Models-that-run-fans-full-due-to-PCIe-NIC.md)
 * [Models that support 200TB Volumes](pages/Models-that-support-200TB-Volumes.md)
 * [Models that support Deduplication](pages/Models-that-support-Deduplication.md)
