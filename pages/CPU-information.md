@@ -11,6 +11,10 @@ Table of Synology hardware information
 
 | MODEL        | CPU PLATFORM   | PACKAGE ARCH |
 |--------------|----------------|-------------|
+| DS111        | 88f6282        | armv5       |
+| DS112        | 88f6282        | armv5       |
+| DS112j       | 88f6281        | armv5       |
+| DS112+       | 88f6282        | armv5       |
 | DS114        | armada370      | armada370   |
 | DS115        | armada375      | armada375   |
 | DS115j       | armada370      | armada370   |
@@ -19,7 +23,16 @@ Table of Synology hardware information
 | DS119j       | armada37xx     | armv8       |
 | DS120j       | armada37xx     | armv8       |
 | DS124        | rtd1619b       | armv8       |
+| DS211        | 88f6282        | armv5       |
+| DS211j       | 88f6281        | armv5       |
+| DS211+       | 88f6282        | armv5       |
+| DS212        | 88f6282        | armv5       |
+| DS212j       | 88f6281        | armv5       |
+| DS212+       | 88f6282        | armv5       |
+| DS213        | 88f6282        | armv5       |
+| DS213air     | 88f6282        | armv5       |
 | DS213j       | armada370      | armada370   |
+| DS213+       | qoriq          | ppc         |
 | DS214        | armadaxp       | armadaxp    |
 | DS214play    | evansport      | i686        |
 | DS214se      | armada370      | armada370   |
@@ -42,6 +55,14 @@ Table of Synology hardware information
 | DS223j       | rtd1619b       | armv8       |
 | DS224+       | geminilake     | x86_64      |
 | DS225+       | geminilakenk   | x86_64      |
+| DS411        | 88f6282        | armv5       |
+| DS411j       | 88f6281        | armv5       |
+| DS411slim    | 88f6282        | armv5       |
+| DS411+       | x86            | x86_64      |
+| DS411+II     | x86            | x86_64      |
+| DS412+       | cedarview      | x86_64      |
+| DS413        | qoriq          | ppc         |
+| DS413j       | 88f6282        | armv5       |
 | DS414        | armadaxp       | armadaxp    |
 | DS414j       | comcerto2k     | comcerto2k  |
 | DS414slim    | armada370      | armada370   |
@@ -61,6 +82,7 @@ Table of Synology hardware information
 | DS423+       | geminilake     | x86_64      |
 | DS425+       | geminilakenk   | x86_64      |
 | DS620slim    | apollolake     | x86_64      |
+| DS712+       | x86            | x86_64      |
 | DS713+       | cedarview      | x86_64      |
 | DS715        | alpine         | armv7       |
 | DS716+       | braswell       | x86_64      |
@@ -75,6 +97,8 @@ Table of Synology hardware information
 | DS923+       | r1000          | x86_64      |
 | DS925+       | v1000nk        | x86_64      |
 | DS1019+      | apollolake     | x86_64      |
+| DS1511+      | x86            | x86_64      |
+| DS1512+      | cedarview      | x86_64      |
 | DS1513+      | cedarview      | x86_64      |
 | DS1515       | alpine         | armv7       |
 | DS1515+      | avoton         | x86_64      |
@@ -86,6 +110,7 @@ Table of Synology hardware information
 | DS1618+      | denverton      | x86_64      |
 | DS1621xs+    | broadwellnk    | x86_64      |
 | DS1621+      | v1000          | x86_64      |
+| DS1812+      | cedarview      | x86_64      |
 | DS1813+      | cedarview      | x86_64      |
 | DS1815+      | avoton         | x86_64      |
 | DS1817       | alpine         | armv7       |
@@ -95,12 +120,15 @@ Table of Synology hardware information
 | DS1823xs+    | v1000          | x86_64      |
 | DS1825+      | v1000nk        | x86_64      |
 | DS2015xs     | alpine         | armv7       |
+| DS2411+      | x86            | x86_64      |
 | DS2413+      | cedarview      | x86_64      |
 | DS2415+      | avoton         | x86_64      |
 | DS2419+      | denverton      | x86_64      |
 | DS2419+II    | denverton      | x86_64      |
 | DS2422+      | v1000          | x86_64      |
 | DS3018xs     | broadwellnk    | x86_64      |
+| DS3611xs     | bromolow       | x86_64      |
+| DS3612xs     | bromolow       | x86_64      |
 | DS3615xs     | bromolow       | x86_64      |
 | DS3617xs     | broadwell      | x86_64      |
 | DS3617xsII   | broadwell      | x86_64      |
@@ -117,10 +145,17 @@ Table of Synology hardware information
 | FS3600       | broadwellnk    | x86_64      |
 | FS6400       | purley         | x86_64      |
 | HD6500       | purley         | x86_64      |
+| NVR216       | hi3535         | hi3535      |
+| NVR1218      | hi3535         | hi3535      |
 | RC18015xs+   | bromolow       | x86_64      |
+| RS212        | 88f6282        | armv5       |
 | RS214        | armada370      | armada370   |
 | RS217        | armada38x      | armada38x   |
+| RS411        | 88f6282        | armv5       |
 | RS422+       | r1000          | x86_64      |
+| RS812        | 88f6282        | armv5       |
+| RS812RP+     | cedarview      | x86_64      |
+| RS812+       | cedarview      | x86_64      |
 | RS814        | armadaxp       | armadaxp    |
 | RS814RP+     | cedarview      | x86_64      |
 | RS814+       | cedarview      | x86_64      |
@@ -139,6 +174,10 @@ Table of Synology hardware information
 | RS1221RP+    | v1000          | x86_64      |
 | RS1221+      | v1000          | x86_64      |
 | RS1619xs+    | broadwellnk    | x86_64      |
+| RS2211RP+    | x86            | x86_64      |
+| RS2211+      | x86            | x86_64      |
+| RS2212RP+    | cedarview      | x86_64      |
+| RS2212+      | cedarview      | x86_64      |
 | RS2414RP+    | cedarview      | x86_64      |
 | RS2414+      | cedarview      | x86_64      |
 | RS2416RP+    | avoton         | x86_64      |
@@ -152,6 +191,10 @@ Table of Synology hardware information
 | RS2818RP+    | denverton      | x86_64      |
 | RS2821RP+    | v1000          | x86_64      |
 | RS2825RP+    | v1000nk        | x86_64      |
+| RS3411RPxs   | bromolow       | x86_64      |
+| RS3411xs     | bromolow       | x86_64      |
+| RS3412RPxs   | bromolow       | x86_64      |
+| RS3412xs     | bromolow       | x86_64      |
 | RS3413xs+    | bromolow       | x86_64      |
 | RS3614RPxs   | bromolow       | x86_64      |
 | RS3614xs     | bromolow       | x86_64      |
