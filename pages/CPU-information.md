@@ -9,6 +9,50 @@ Table of Synology hardware information
 
 <br>
 
+
+| CPU PLATFORM    | PACKAGE ARCH | MACHINE  |
+|-----------------|-------------|-----------|
+| apollolake      | x86_64      | x86-64    |
+| avoton          | x86_64      | x86-64    |
+| braswell        | x86_64      | x86-64    |
+| broadwell       | x86_64      | x86-64    |
+| broadwellnk     | x86_64      | x86-64    |
+| broadwellnkv2   | x86_64      | x86-64    |
+| broadwellntbap  | x86_64      | x86-64    |
+| bromolow        | x86_64      | x86-64    |
+| cedarview       | x86_64      | x86-64    |
+| denverton       | x86_64      | x86-64    |
+| epyc7002        | x86_64      | x86-64    |
+| geminilake      | x86_64      | x86-64    |
+| geminilakenk    | x86_64      | x86-64    |
+| grantley        | x86_64      | x86-64    |
+| kvmx64          | x86_64      | x86-64    |
+| purley          | x86_64      | x86-64    |
+| r1000           | x86_64      | x86-64    |
+| r1000nk         | x86_64      | x86-64    |
+| v1000           | x86_64      | x86-64    |
+| v1000nk         | x86_64      | x86-64    |
+| x86             | x86_64      | x86-64    |
+|                 |             |           |
+| 88f6281         | armv5       |           |
+| 88f6282         | armv5       |           |
+| alpine          | armv7       | armhf     |
+| alpine4k        | armv7       | armhf     |
+| armada370       | armada370   | armhf     |
+| armada375       | armada375   | armhf     |
+| armada37xx      | armv8       | aarch64   |
+| armada38x       | armada38x   | armhf     |
+| armadaxp        | armadaxp    | armhf     |
+| comcerto2k      | comcerto2k  | armhf     |
+| evansport       | i686        |           |
+| hi3535          | hi3535      |           |
+| monaco          | monaco      | armhf     |
+| qoriq           | ppc         | armhf     |
+| rtd1296         | armv8       | aarch64   |
+| rtd1619b        | armv8       | aarch64   |
+
+<br>
+
 | MODEL        | CPU PLATFORM   | PACKAGE ARCH | MACHINE  |
 |--------------|----------------|--------------|----------|
 | DS111        | 88f6282        | armv5        |          |
